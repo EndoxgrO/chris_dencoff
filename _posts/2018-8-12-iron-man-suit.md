@@ -1,13 +1,15 @@
 ---
 layout: post
-title: This is the title of the post
+title: One Of The Early Works
 postHero: /images/shark.jpg
-author: Me, Myself, and I
-authorTwitter: http://twitter.com/mhartl
-gravatar: https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?s=150
-postFooter: Additional information, and maybe a <a href="#">link or two</a>
+author: Some Dumb Cunt
+authorTwitter: https://www.facebook.com/chris.dencoff?ref=br_rs
+gravatar: https://scontent-sea1-1.xx.fbcdn.net/v/t1.0-9/11224267_1058587237508768_7069681516437003841_n.jpg?_nc_cat=0&oh=69b3ba6e275df7cfc5a85af4b281298f&oe=5BFC6848
+postFooter: Additional information, and maybe some <a href="#">Stuff.. or not</a>
 ---
+*No He Didn't Make A Shark But When He Does You Can Find It Here*
 
+*Filler text from the beginning of Moby Dick* ||
 Call me *Ishmael*. Some years ago–*never mind how long
 precisely*–having little or no money in my purse, and nothing
 particular to interest me on shore, I thought I would sail about a little
